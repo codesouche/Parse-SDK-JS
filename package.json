@@ -1,7 +1,7 @@
 {
-  "name": "juju",
+  "name": "juju-js",
   "version": "3.4.3-alpha.1",
-  "description": "The juju JavaScript SDK",
+  "description": "The parse JavaScript SDK",
   "homepage": "https://github.com/codesouche/Parse-SDK-JS",
   "keywords": [
     "cloud",
