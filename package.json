@@ -1,8 +1,8 @@
 {
-  "name": "parse",
+  "name": "juju",
   "version": "3.4.3-alpha.1",
-  "description": "The Parse JavaScript SDK",
-  "homepage": "https://parseplatform.org/",
+  "description": "The juju JavaScript SDK",
+  "homepage": "https://github.com/codesouche/Parse-SDK-JS",
   "keywords": [
     "cloud",
     "mobile",
@@ -11,9 +11,9 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/parse-community/Parse-SDK-JS"
+    "url": "https://github.com/codesouche/Parse-SDK-JS"
   },
-  "bugs": "https://github.com/parse-community/Parse-SDK-JS/issues",
+  "bugs": "https://github.com/codesouche/Parse-SDK-JS/issues",
   "files": [
     "index.js",
     "node.js",
@@ -82,7 +82,7 @@
     "jsdoc-babel": "0.5.0",
     "lint-staged": "10.5.3",
     "metro-react-native-babel-preset": "0.59.0",
-    "parse-server": "github:parse-community/parse-server#alpha",
+    "juju-server": "github:codesouche/parse-server#alpha",
     "prettier": "2.2.1",
     "regenerator-runtime": "0.13.5",
     "semantic-release": "17.4.6",
